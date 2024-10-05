@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "Understanding git"
+  author: "Aziz C. Bilotta-Connors"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    theme: vapor
+    smooth-scroll: true
+title-block-banner: true
+
+
+
+
